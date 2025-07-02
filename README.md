@@ -96,44 +96,6 @@ This project is perfect for:
     php artisan serve
     ```
 
-## Preview of Pages
-
-Here are some previews of the main pages of the application:
-
-### Home Page
-
-![Home Page](public/page/page_1.png)
-
-### About Page
-
-![About Page](public/page/page_2.png)
-
-### Services Page
-
-![Services Page](public/page/page_3.png)
-
-### Projects Page
-
-![Projects Page](public/page/page_4.png)
-
-### Blog Page
-
-![Blog Page](public/page/page_5.png)
-
-### Team Page
-
-![Team Page](public/page/page_6.png)
-
-### Testimonials Page
-
-![Testimonials Page](public/page/page_7.png)
-
-### Contact Page
-
-![Contact Page](public/page/page_8.png)
-
-## Deployment
-
 For deployment, ensure that you configure your `.env` file with the correct settings for your database, caching, and mail services.
 
 ## License
